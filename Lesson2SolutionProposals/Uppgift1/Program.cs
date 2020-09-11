@@ -6,10 +6,10 @@ namespace Uppgift1
     {
         static void Main(string[] args)
         {
-            Console.Write("Ange ditt namn: ");
+            Console.Write("Ange ditt namn > ");
             string name = Console.ReadLine();
 
-            Console.Write("Ange din ålder: ");
+            Console.Write("Ange din ålder > ");
             string ageString = Console.ReadLine();
             // Console.ReadLine() returnerar alltid ett string värde
             // vilket kan ses genom att hovra över ReadLine()
@@ -18,7 +18,7 @@ namespace Uppgift1
             // Det inmatade string-värdet måste konverteras till en
             // heltalsdatatyp (int) för att vi ska kunna göra beräkningar.
 
-            Console.Write("Ange din ort: ");
+            Console.Write("Ange din ort > ");
             string city = Console.ReadLine();
 
             string story =
