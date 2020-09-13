@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift1", "Uppgift1\Uppgift1.csproj", "{099C24DC-0001-4FE5-946A-17B9C2D418AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift1", "Uppgift1\Uppgift1.csproj", "{099C24DC-0001-4FE5-946A-17B9C2D418AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift2", "Uppgift2\Uppgift2.csproj", "{50195831-BA39-4FF7-8619-A171DCFF900F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{099C24DC-0001-4FE5-946A-17B9C2D418AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{099C24DC-0001-4FE5-946A-17B9C2D418AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{099C24DC-0001-4FE5-946A-17B9C2D418AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50195831-BA39-4FF7-8619-A171DCFF900F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50195831-BA39-4FF7-8619-A171DCFF900F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50195831-BA39-4FF7-8619-A171DCFF900F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50195831-BA39-4FF7-8619-A171DCFF900F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
